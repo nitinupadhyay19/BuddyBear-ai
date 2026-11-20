@@ -1,0 +1,10 @@
+{
+  "name": "BuddyBear AI — Screen-Free Relocation Companion",
+  "description": "An interactive screen-free AI toy simulator and parent companion dashboard powered by the Gemini Live API for children navigating family relocations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
